@@ -1,6 +1,6 @@
 from pathlib import Path
 
-DATASET_ROOT = Path( r"C:\Usuários\02103593669\Documents\GlaucomaDataset" )
+DATASET_ROOT = Path( r"" )
 ARTERY_FOLDER_NAME = "vessel-artery"
 VEIN_FOLDER_NAME   = "vessel-vein"
 
